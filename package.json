@@ -1,0 +1,22 @@
+{
+  "name": "npmtest201605061",
+  "version": "1.0.0",
+  "description": "testtesttest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdmec/npmtest201605061.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "cuiyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdmec/npmtest201605061/issues"
+  },
+  "homepage": "https://github.com/gdmec/npmtest201605061#readme"
+}
